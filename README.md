@@ -1,11 +1,12 @@
 # Hi I'm @SzaBee13
 
-I just learning programming in:
-- cpp
-- js
-- html
-- css
-- logo
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
+
+## My stats:
+![face-hh](https://github-readme-stats.vercel.app/api?username=SzaBee13&show_icons=true&theme=tokyonight&hide=["issues"])
+
+![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=SzaBee13&show_icons=true&theme=tokyonight&layout=compact)
 
 I have a long road to programming and I can't wait for it!
 ## My sites:
