@@ -42,3 +42,18 @@
 
 I have a long road to programming and I can't wait for it!
 I just got my pyhton master degree at Logiscool.
+
+## My contributions
+<div>
+  <picture>
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=TheodoreMeyer&repo=SimpleVoice-Geyser&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=TheodoreMeyer&repo=SimpleVoice-Geyser&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=TheodoreMeyer&repo=SimpleVoice-Geyser&hide_border=true" />
+  </picture>
+</div>
