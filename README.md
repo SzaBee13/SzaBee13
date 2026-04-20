@@ -1,8 +1,10 @@
-# Hi I'm Szabolcs Győrffy
+<div align=center>
+  <h1>Hi I'm Szabolcs Győrffy</h1>
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CF709&center=true&width=435&lines=Touch+some+grass." alt="Typing SVG" /></a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
-
-<div>
+<div align=center>
   <picture>
     <source srcset="https://github-readme-stats-fast.vercel.app/api?username=SzaBee13&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats-fast.vercel.app/api?username=SzaBee13&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
